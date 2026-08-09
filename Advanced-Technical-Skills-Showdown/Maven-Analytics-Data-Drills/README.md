@@ -78,7 +78,7 @@ All problems are from [Maven Analytics Data Drills](https://mavenanalytics.io/da
 ## 📁 Folder Structure
 
 - Each solution file begins with the name of the tool used("MYSQL", "Excel", "PBI" for Power BI, "Pandas").
-- while the sample data files end with ".csv".
+- While the sample data files end with ".csv".
 - Most but not all folders contain the sample data files( due to their sizes) but they can be downloaded from the links above.
 
 ---
