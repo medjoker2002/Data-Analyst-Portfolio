@@ -1,7 +1,7 @@
 # Maven Analytics Data Drills — Cross-Tool Solutions
 
 > **The same business problem, solved with SQL · Excel · Power BI · Python.**  
-> This folder demonstrates tool-agnostic analytical thinking — choosing the right tool for each stage of the data pipeline.
+> This folder demonstrates tool-agnostic analytical thinking.
 
 ---
 
