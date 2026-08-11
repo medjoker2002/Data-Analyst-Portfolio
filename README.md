@@ -100,7 +100,7 @@ A curated collection of **11 hard-level SQL problems** organized by concept:
 **Notable Solutions:**
 - [Pizza Topping Combinations](Advanced-Technical-Skills-Showdown/Recursive-CTEs/mysql%20pizza%20topping%20cost.sql) — Recursive CTE generating all 3-topping combinations
 - [Google Median Search Frequency](Advanced-Technical-Skills-Showdown/Window-Functions/mysql%20google%20searches%20median.sql) — Median from frequency table without `MEDIAN()` function
-- [15 Days of Learning SQL](Advanced-Technical-Skills-Showdown/Window-Functions/Window-Functions/mysql%2015%20learninng%20days.sql) — Streak filtering + daily ranking
+- [15 Days of Learning SQL](Advanced-Technical-Skills-Showdown/Window-Functions/mysql%2015%20learninng%20days.sql) — Streak filtering + daily ranking
 
 ---
 
