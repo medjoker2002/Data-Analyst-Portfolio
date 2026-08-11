@@ -1,6 +1,6 @@
 # Pizza Topping Combinations
 
-> **Source:** DataLemur | **Difficulty:** Hard | **Concept:** Recursive CTEs — Combinatorial Generation
+> **Source:** [DataLemur](https://datalemur.com/questions/pizzas-topping-cost) | **Difficulty:** Hard | **Concept:** Recursive CTEs — Combinatorial Generation
 
 ---
 
@@ -83,7 +83,7 @@ This is essentially generating combinations in SQL without any procedural code.
 
 # Repeated Payments Detection
 
-> **Source:** DataLemur | **Difficulty:** Hard | **Concept:** Recursive CTEs — Duplicate Detection with Time Window
+> **Source:** [DataLemur](https://datalemur.com/questions/repeated-payments) | **Difficulty:** Hard | **Concept:** Recursive CTEs — Duplicate Detection with Time Window
 
 ---
 
