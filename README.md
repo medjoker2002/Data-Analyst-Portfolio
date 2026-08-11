@@ -9,7 +9,7 @@
 Aspiring Data Analyst with a strong foundation in data cleaning, exploratory analysis, and business intelligence. I specialize in transforming messy datasets into clean, analysis-ready data and building interactive dashboards that drive decision-making.
 
 **Core Tools:** SQL · Python (Pandas) · Microsoft Excel · Power BI  
-**Key Strengths:** Advanced data cleaning, DAX & time intelligence, cross-tool analytical pipelines, complex SQL problem-solving
+**Key Strengths:** Advanced data cleaning, DAX & time intelligence, cross-tool analytical pipelines, complex SQL problem-solving 
 **Business Domains:** Sales, Marketing, and SaaS
 
 ---
@@ -98,9 +98,9 @@ A curated collection of **11 hard-level SQL problems** organized by concept:
 | **Conditional Logic** | 2 | Multi-table filtering, business-state mapping |
 
 **Notable Solutions:**
-- [Pizza Topping Combinations](Advanced-Technical-Skills-Showdown/Recursive-CTEs/pizza%20topping%20cost.sql) — Recursive CTE generating all 3-topping combinations
-- [Google Median Search Frequency](Advanced-Technical-Skills-Showdown/Window-Functions/google%20median.sql) — Median from frequency table without `MEDIAN()` function
-- [15 Days of Learning SQL](Advanced-Technical-Skills-Showdown/Window-Functions/15%20days%20learning.sql) — Streak filtering + daily ranking
+- [Pizza Topping Combinations](Advanced-Technical-Skills-Showdown/Recursive-CTEs/mysql%20pizza%20topping%20cost.sql) — Recursive CTE generating all 3-topping combinations
+- [Google Median Search Frequency](Advanced-Technical-Skills-Showdown/Window-Functions/mysql%20google%20median.sql) — Median from frequency table without `MEDIAN()` function
+- [15 Days of Learning SQL](Advanced-Technical-Skills-Showdown/Window-Functions/mysql%2015%20days%20learning.sql) — Streak filtering + daily ranking
 
 ---
 
