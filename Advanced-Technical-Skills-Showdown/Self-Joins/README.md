@@ -1,6 +1,6 @@
 # Active User Retention
 
-> **Source:** DataLemur | **Difficulty:** Hard | **Concept:** Self-Joins — Month-over-Month Retention
+> **Source:** [DataLemur](https://datalemur.com/questions/user-retention) | **Difficulty:** Hard | **Concept:** Self-Joins — Month-over-Month Retention
 
 ---
 
@@ -72,7 +72,7 @@ The `LEFT JOIN` ensures we see all current-month users, while the count of non-N
 
 # Reactivated Users
 
-> **Source:** DataLemur | **Difficulty:** Hard | **Concept:** Self-Joins — Gap Detection
+> **Source:** [DataLemur](https://datalemur.com/questions/reactivated-users) | **Difficulty:** Hard | **Concept:** Self-Joins — Gap Detection
 
 ---
 
