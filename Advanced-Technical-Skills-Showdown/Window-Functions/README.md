@@ -89,7 +89,7 @@ This combines **streak validation** with **per-day ranking**:
 
 # Consecutive Filing Years
 
-> **Source:** DataLemur | **Difficulty:** Hard | **Concept:** Window Functions — Gap & Islands Pattern
+> **Source:** [DataLemur](https://datalemur.com/questions/consecutive-filing-years) | **Difficulty:** Hard | **Concept:** Window Functions — Gap & Islands Pattern
 
 ---
 
@@ -169,7 +169,7 @@ All consecutive years share the same `streak_group`. A gap (missing 2023) breaks
 
 # Google Median Search Frequency
 
-> **Source:** DataLemur | **Difficulty:** Hard | **Concept:** Window Functions — Running Totals & Median Calculation
+> **Source:** [DataLemur](https://datalemur.com/questions/median-search-freq) | **Difficulty:** Hard | **Concept:** Window Functions — Running Totals & Median Calculation
 
 ---
 
@@ -332,7 +332,7 @@ When consecutive rows are truly consecutive in `id`, `id - rn` remains constant.
 
 # Server Utilization
 
-> **Source:** DataLemur | **Difficulty:** Hard | **Concept:** Window Functions — Time-Delta Calculation
+> **Source:** [DataLemur](https://datalemur.com/questions/total-utilization-time) | **Difficulty:** Hard | **Concept:** Window Functions — Time-Delta Calculation
 
 ---
 
