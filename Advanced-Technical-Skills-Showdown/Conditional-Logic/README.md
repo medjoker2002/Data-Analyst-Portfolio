@@ -1,6 +1,6 @@
 # Updated User Status
 
-> **Source:** DataLemur | **Difficulty:** Hard | **Concept:** Conditional Logic — Business-State Mapping
+> **Source:** [DataLemur](https://datalemur.com/questions/updated-status) | **Difficulty:** Hard | **Concept:** Conditional Logic — Business-State Mapping
 
 ---
 
