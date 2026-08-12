@@ -40,7 +40,7 @@ A comprehensive data cleaning pipeline transforming 2,020 raw marketing campaign
 ---
 
 ### 2. Plant Co. Performance Dashboard (Power BI)
-**Folder:** [`Power-BI/Plant-Co.-Performance-Dashboard/`](Power-BI/Plant-Co.-Performance-Dashboard/)
+**Folder:** [`Power-BI/Plant-Co.-Performance-Dashboard/`](Power-BI/Plant-Co.-Performance/)
 
 An advanced Power BI dashboard with a **dynamic metric selector** — users toggle between Sales, Quantity, and Gross Profit without switching pages.
 
@@ -73,7 +73,7 @@ Interactive Excel dashboard analyzing pizza sales with dynamic slicers and pivot
 ---
 
 ### 5. Superstore Analysis (Power BI)
-**Folder:** [`Power-BI/Superstore-Analysis/`](Power-BI/Superstore-Analysis/)
+**Folder:** [`Power-BI/Superstore-Analysis/`](Power-BI/Superstore-Dashboard/)
 
 Business intelligence dashboard for retail sales performance with YoY comparisons and interactive filters.
 
