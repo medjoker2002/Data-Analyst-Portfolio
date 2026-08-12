@@ -16,13 +16,14 @@
 ---
 
 ## 🗂️ By Concept
+- Check README inside each folder for: Problem Statement, Approach, Solution, Key Technique Explaind, and Why This Matters.
 
 ### Window Functions
 | Problem | Source | File | Key Technique |
 |---------|--------|------|---------------|
 | Consecutive Filing Years | DataLemur | [`consecutive-filing-years.sql`](Window-Functions/mysql%20consecutive%20filing%20years.sql) | `ROW_NUMBER()` streak detection with gap analysis |
 | Google Median Search Frequency | DataLemur | [`google-median.sql`](Window-Functions/mysql%20google%20searches%20median.sql) | Running totals + median from frequency table |
-| Server Utilization | DataLemur | [`server-utilization.sql`](Window-Functions/mysql%20server%20utilizzation.sql) | `LAG()` for time-delta between start/stop events |
+| Server Utilization | DataLemur | [`server-utilization.sql`](Window-Functions/mysql%20server%20utilization.sql) | `LAG()` for time-delta between start/stop events |
 | Human Traffic of Stadium | LeetCode | [`human-traffic-stadium.sql`](Window-Functions/mysql%20human%20traffic%20of%20stadium.sql) | Gap & islands for consecutive high-attendance days |
 | 15 Days of Learning SQL | HackerRank | [`15-days-learning.sql`](Window-Functions/mysql%2015%20learninng%20days.sql) | Multi-level window functions (streak + daily rank) |
 
@@ -43,8 +44,6 @@
 |---------|--------|------|---------------|
 | Trips Cancellation Rate | LeetCode | [`trips-cancellation-rate.sql`](Conditional-Logic/mysql%20trips%20cancelation%20rate.sql) | Double self-join + conditional aggregation |
 | Updated User Status | DataLemur | [`updated-status.sql`](Conditional-Logic/mysql%20updated%20status.sql) | `CASE` statements with payment aggregation |
-
-> **Check README inside each folder for: Problem Statement, Approach, Solution, Key Technique Explaind, and Why This Matters**
 
 ### Cross-Tool Proficiency (Maven Analytics)
 
